@@ -18,7 +18,5 @@
  <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a>
   <a href = "mailto:lopesrafael1811@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
   <a href="https://https://www.linkedin.com/in/rafael-mendes-aa0448268?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bwapp3k5qTJWK%2BjaEeypavg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-  ![Animação de cobra](https://github.com/lopesrafab7/lopesrafab7/blob/output/github-contribution-grid-snake.svg)
 
 </div>
